@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/ravi-ck13/Leetcode/tree/master/2058-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [3412-permutation-difference-between-two-strings](https://github.com/ravi-ck13/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+## String
+|  |
+| ------- |
+| [3412-permutation-difference-between-two-strings](https://github.com/ravi-ck13/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 <!---LeetCode Topics End-->
