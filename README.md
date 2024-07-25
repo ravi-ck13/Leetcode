@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravi-ck13/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1580-shuffle-the-array](https://github.com/ravi-ck13/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/ravi-ck13/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/ravi-ck13/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
