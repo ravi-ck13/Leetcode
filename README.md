@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/ravi-ck13/Leetcode/tree/master/0782-jewels-and-stones) |
+| [3379-score-of-a-string](https://github.com/ravi-ck13/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ravi-ck13/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
