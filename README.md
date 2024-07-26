@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ravi-ck13/Leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/ravi-ck13/Leetcode/tree/master/0507-perfect-number) |
+| [2383-add-two-integers](https://github.com/ravi-ck13/Leetcode/tree/master/2383-add-two-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ravi-ck13/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
