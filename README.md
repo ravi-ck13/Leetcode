@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ravi-ck13/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ravi-ck13/Leetcode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/ravi-ck13/Leetcode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/ravi-ck13/Leetcode/tree/master/0507-perfect-number) |
 | [2383-add-two-integers](https://github.com/ravi-ck13/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/ravi-ck13/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -62,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ravi-ck13/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ravi-ck13/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
