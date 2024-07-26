@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ravi-ck13/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ravi-ck13/Leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/ravi-ck13/Leetcode/tree/master/0507-perfect-number) |
 | [2383-add-two-integers](https://github.com/ravi-ck13/Leetcode/tree/master/2383-add-two-integers) |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravi-ck13/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ravi-ck13/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ravi-ck13/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
