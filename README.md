@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/ravi-ck13/Leetcode/tree/master/0507-perfect-number) |
 | [2383-add-two-integers](https://github.com/ravi-ck13/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/ravi-ck13/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2752-sum-multiples](https://github.com/ravi-ck13/Leetcode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ravi-ck13/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
