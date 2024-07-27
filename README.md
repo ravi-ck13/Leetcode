@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/ravi-ck13/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ravi-ck13/Leetcode/tree/master/0782-jewels-and-stones) |
 | [3194-find-words-containing-character](https://github.com/ravi-ck13/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ravi-ck13/Leetcode/tree/master/3379-score-of-a-string) |
