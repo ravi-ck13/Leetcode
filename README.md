@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ravi-ck13/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ravi-ck13/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ravi-ck13/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ravi-ck13/Leetcode/tree/master/0326-power-of-three) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravi-ck13/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravi-ck13/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/ravi-ck13/Leetcode/tree/master/0189-rotate-array) |
 | [1580-shuffle-the-array](https://github.com/ravi-ck13/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/ravi-ck13/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ravi-ck13/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravi-ck13/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ravi-ck13/Leetcode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
