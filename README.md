@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ravi-ck13/Leetcode/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi-ck13/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/ravi-ck13/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/ravi-ck13/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/ravi-ck13/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi-ck13/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/ravi-ck13/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/ravi-ck13/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ravi-ck13/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ravi-ck13/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
