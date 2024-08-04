@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi-ck13/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/ravi-ck13/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/ravi-ck13/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [2727-number-of-senior-citizens](https://github.com/ravi-ck13/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ravi-ck13/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ravi-ck13/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/ravi-ck13/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ravi-ck13/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/ravi-ck13/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [2727-number-of-senior-citizens](https://github.com/ravi-ck13/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/ravi-ck13/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ravi-ck13/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ravi-ck13/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
