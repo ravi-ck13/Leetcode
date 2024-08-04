@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravi-ck13/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ravi-ck13/Leetcode/tree/master/0189-rotate-array) |
+| [0908-middle-of-the-linked-list](https://github.com/ravi-ck13/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi-ck13/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/ravi-ck13/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
