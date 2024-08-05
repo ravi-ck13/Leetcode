@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravi-ck13/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/ravi-ck13/Leetcode/tree/master/0041-first-missing-positive) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravi-ck13/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/ravi-ck13/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ravi-ck13/Leetcode/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/ravi-ck13/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/ravi-ck13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/ravi-ck13/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravi-ck13/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
