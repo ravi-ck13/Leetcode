@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ravi-ck13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/ravi-ck13/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ravi-ck13/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ravi-ck13/Leetcode/tree/master/0258-add-digits) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ravi-ck13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ravi-ck13/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ravi-ck13/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ravi-ck13/Leetcode/tree/master/0326-power-of-three) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ravi-ck13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ravi-ck13/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ravi-ck13/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ravi-ck13/Leetcode/tree/master/0908-middle-of-the-linked-list) |
