@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ravi-ck13/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ravi-ck13/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ravi-ck13/Leetcode/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/ravi-ck13/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ravi-ck13/Leetcode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravi-ck13/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/ravi-ck13/Leetcode/tree/master/0189-rotate-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ravi-ck13/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ravi-ck13/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ravi-ck13/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/ravi-ck13/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ravi-ck13/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ravi-ck13/Leetcode/tree/master/0078-subsets) |
 ## Matrix
