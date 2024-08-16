@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ravi-ck13/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/ravi-ck13/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ravi-ck13/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ravi-ck13/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ravi-ck13/Leetcode/tree/master/0258-add-digits) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ravi-ck13/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ravi-ck13/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ravi-ck13/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ravi-ck13/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ravi-ck13/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ravi-ck13/Leetcode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravi-ck13/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -182,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ravi-ck13/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/ravi-ck13/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
