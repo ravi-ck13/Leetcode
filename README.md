@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravi-ck13/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/ravi-ck13/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ravi-ck13/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ravi-ck13/Leetcode/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/ravi-ck13/Leetcode/tree/master/0078-subsets) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravi-ck13/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/ravi-ck13/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ravi-ck13/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/ravi-ck13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/ravi-ck13/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -168,7 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravi-ck13/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ravi-ck13/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/ravi-ck13/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ravi-ck13/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/ravi-ck13/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ravi-ck13/Leetcode/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ravi-ck13/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
