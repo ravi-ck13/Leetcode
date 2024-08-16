@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ravi-ck13/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ravi-ck13/Leetcode/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi-ck13/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/ravi-ck13/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ravi-ck13/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ravi-ck13/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ravi-ck13/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ravi-ck13/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/ravi-ck13/Leetcode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravi-ck13/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/ravi-ck13/Leetcode/tree/master/0189-rotate-array) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ravi-ck13/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ravi-ck13/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ravi-ck13/Leetcode/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
