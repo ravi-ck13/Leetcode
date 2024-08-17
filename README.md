@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ravi-ck13/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ravi-ck13/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/ravi-ck13/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ravi-ck13/Leetcode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravi-ck13/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/ravi-ck13/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ravi-ck13/Leetcode/tree/master/0189-rotate-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravi-ck13/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ravi-ck13/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/ravi-ck13/Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/ravi-ck13/Leetcode/tree/master/0179-largest-number) |
 | [0742-to-lower-case](https://github.com/ravi-ck13/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ravi-ck13/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -188,12 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ravi-ck13/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ravi-ck13/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ravi-ck13/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ravi-ck13/Leetcode/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ravi-ck13/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ravi-ck13/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ravi-ck13/Leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/ravi-ck13/Leetcode/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
